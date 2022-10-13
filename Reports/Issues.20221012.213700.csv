@@ -1,0 +1,8 @@
+SessionID,Name,Description,Severity,Line,Column,ParentFile,TopLevelCategory,Code
+35ca3616-d200-4908-a466-7640cc00ab6b,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 4 OF THE SOURCE CODE. **,Critical,4,0,CLI_Ora/Source_Code.sql,No category specified,MSCEWI1001
+35ca3616-d200-4908-a466-7640cc00ab6b,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 28 OF THE SOURCE CODE. **,Critical,28,0,CLI_Ora/Source_Code.sql,No category specified,MSCEWI1001
+35ca3616-d200-4908-a466-7640cc00ab6b,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 38 OF THE SOURCE CODE. **,Critical,38,0,CLI_Ora/Source_Code.sql,No category specified,MSCEWI1001
+35ca3616-d200-4908-a466-7640cc00ab6b,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 39 OF THE SOURCE CODE. **,Critical,39,0,CLI_Ora/Source_Code.sql,No category specified,MSCEWI1001
+35ca3616-d200-4908-a466-7640cc00ab6b,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 45 OF THE SOURCE CODE. **,Critical,45,0,CLI_Ora/Source_Code.sql,No category specified,MSCEWI1001
+35ca3616-d200-4908-a466-7640cc00ab6b,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 60 OF THE SOURCE CODE. **,Critical,60,0,CLI_Ora/Source_Code.sql,No category specified,MSCEWI1001
+35ca3616-d200-4908-a466-7640cc00ab6b,UnrecognizedToken,** MSC-ERROR - MSCEWI1001 - UNRECOGNIZED TOKEN ON LINE 61 OF THE SOURCE CODE. **,Critical,61,0,CLI_Ora/Source_Code.sql,No category specified,MSCEWI1001

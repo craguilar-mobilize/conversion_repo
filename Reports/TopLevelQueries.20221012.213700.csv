@@ -1,0 +1,5 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,FileName,LineNumber,LinesOfCode,HighestEWISeverity,ConversionStatus,EWIs,UDFsUsed,CharConversionPercentage,LoCConversionPercentage,EWIsNumber,ObjectDB,CharacterCount
+35ca3616-d200-4908-a466-7640cc00ab6b,SQL,2,INSERT,CLI_Ora/Source_Code.sql,13,1,,Fully Converted,,,--,100%,0,,
+35ca3616-d200-4908-a466-7640cc00ab6b,SQL,3,INSERT,CLI_Ora/Source_Code.sql,15,1,,Fully Converted,,,--,100%,0,,
+35ca3616-d200-4908-a466-7640cc00ab6b,SQL,4,INSERT,CLI_Ora/Source_Code.sql,17,1,,Fully Converted,,,--,100%,0,,
+35ca3616-d200-4908-a466-7640cc00ab6b,SQL,5,INSERT,CLI_Ora/Source_Code.sql,19,1,,Fully Converted,,,--,100%,0,,

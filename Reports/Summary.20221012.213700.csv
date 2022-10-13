@@ -1,0 +1,7 @@
+Category,ConvertedObjects,NotConvertedObjects,PartiallyConvertedObjects,Total,ProcessedLoC,NotProcessedLOC,ErrorParsingLOC,TotalParsingErrors,TotalConversionErrors,ErrorConversionLOC,TotalLoc
+Exact Numeric Type,1,0,0,1,1,0,0,0,0,0,0
+Tables,0,0,1,1,7,0,2,1,0,0,0
+Inserts,4,0,0,4,4,0,0,0,0,0,0
+From Clause,1,0,0,1,1,0,0,0,0,0,0
+Teradata Select,1,0,0,1,2,0,0,0,0,0,0
+Views,1,0,0,1,4,0,0,0,0,0,0

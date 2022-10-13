@@ -1,0 +1,14 @@
+ M Target/CLI_Ora/Source_Code.sql
+?? Logs/ConversionLog.20221012.213700.log
+?? Logs/GenericInfrastructureController/Controller-Log-20221012.213657.log
+?? Logs/SnowConvert-Log-20221012.213700.log
+?? Reports/Assessment.20221012.213700.csv
+?? Reports/Assessment.20221012.213700.docx
+?? Reports/Assessment.20221012.213700.html
+?? Reports/Elements.20221012.213700.csv
+?? Reports/Issues.20221012.213700.csv
+?? Reports/Lineage.20221012.213700.csv
+?? Reports/Summary.20221012.213700.csv
+?? Reports/TopLevelObjects.20221012.213700.csv
+?? Reports/TopLevelQueries.20221012.213700.csv
+?? bds-auto-save-craguilar@mobilize.net-2022-10-13-04-17-15.txt

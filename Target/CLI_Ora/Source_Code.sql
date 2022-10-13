@@ -23,7 +23,6 @@ CREATE TABLE PUBLIC.DemoUsers
   INSERT INTO PUBLIC.DemoUsers (Name, Birthday, CityCode, Email)
   VALUES ('Joseph Jar', '2021-08-09', 741, 'joseph@mobilize.se');
 
-  /*** MSC-WARNING - MSCEWI1039 - SEMANTIC INFORMATION COULD NOT BE LOADED FOR View_DemoUsers. CHECK IF THE NAME IS INVALID OR DUPLICATED. ***/
 -- <sc-view> DemoUserView </sc-view> 
   CREATE OR REPLACE VIEW PUBLIC.View_DemoUsers
   (Name, CityCode, Email)
