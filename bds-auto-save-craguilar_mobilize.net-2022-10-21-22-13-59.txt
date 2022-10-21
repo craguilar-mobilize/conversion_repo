@@ -1,0 +1,14 @@
+?? Logs/ConversionLog.20221021.215517.log
+?? Logs/GenericInfrastructureController/Controller-Log-20221021.215513.log
+?? Logs/SnowConvert-Log-20221021.215517.log
+?? Reports/Assessment.20221021.215517.csv
+?? Reports/Assessment.20221021.215517.docx
+?? Reports/Assessment.20221021.215517.html
+?? Reports/Elements.20221021.215517.csv
+?? Reports/Issues.20221021.215517.csv
+?? Reports/Lineage.20221021.215517.csv
+?? Reports/Summary.20221021.215517.csv
+?? Reports/TopLevelObjects.20221021.215517.csv
+?? Reports/TopLevelQueries.20221021.215517.csv
+?? Target/CLI_T12/Source_Code.sql
+?? bds-auto-save-craguilar_mobilize.net-2022-10-21-22-13-59.txt
