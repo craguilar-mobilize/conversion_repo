@@ -1,0 +1,9 @@
+RunId,ProjectId,Timestamp,RepositoryUrl,Parent,Name,Type
+a21d6591-16dd-4cb6-9158-06e214965dfa,24637,2022-12-12-20-0-48,https://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:x-oauth-basic@github.com/craguilar-mobilize/conversion_repo.git,DBADM.View_DemoUsers,CityCode,Integer
+a21d6591-16dd-4cb6-9158-06e214965dfa,24637,2022-12-12-20-0-48,https://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:x-oauth-basic@github.com/craguilar-mobilize/conversion_repo.git,DBADM.View_DemoUsers,Email,VARCHAR(255)
+a21d6591-16dd-4cb6-9158-06e214965dfa,24637,2022-12-12-20-0-48,https://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:x-oauth-basic@github.com/craguilar-mobilize/conversion_repo.git,DBADM.View_DemoUsers,Name,VARCHAR(255)
+a21d6591-16dd-4cb6-9158-06e214965dfa,24637,2022-12-12-20-0-48,https://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:x-oauth-basic@github.com/craguilar-mobilize/conversion_repo.git,DemoUsers,Birthday,DATE
+a21d6591-16dd-4cb6-9158-06e214965dfa,24637,2022-12-12-20-0-48,https://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:x-oauth-basic@github.com/craguilar-mobilize/conversion_repo.git,DemoUsers,CityCode,Integer
+a21d6591-16dd-4cb6-9158-06e214965dfa,24637,2022-12-12-20-0-48,https://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:x-oauth-basic@github.com/craguilar-mobilize/conversion_repo.git,DemoUsers,Email,VARCHAR(255)
+a21d6591-16dd-4cb6-9158-06e214965dfa,24637,2022-12-12-20-0-48,https://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:x-oauth-basic@github.com/craguilar-mobilize/conversion_repo.git,DemoUsers,ID,Integer
+a21d6591-16dd-4cb6-9158-06e214965dfa,24637,2022-12-12-20-0-48,https://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:x-oauth-basic@github.com/craguilar-mobilize/conversion_repo.git,DemoUsers,Name,VARCHAR(255)

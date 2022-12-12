@@ -1,0 +1,14 @@
+?? Sources/ScannerResults/2022-12-12-20-0-48/Column_report.csv
+?? Sources/ScannerResults/2022-12-12-20-0-48/Dashboard/Dashboard.20221212.200105.csv
+?? Sources/ScannerResults/2022-12-12-20-0-48/GraphFormatFiles/ContainsRelationship.csv
+?? Sources/ScannerResults/2022-12-12-20-0-48/GraphFormatFiles/FileNode.csv
+?? Sources/ScannerResults/2022-12-12-20-0-48/GraphFormatFiles/HasColumnRelationship.csv
+?? Sources/ScannerResults/2022-12-12-20-0-48/GraphFormatFiles/ReferencesRelationship.csv
+?? Sources/ScannerResults/2022-12-12-20-0-48/GraphFormatFiles/SQLColumnNode.csv
+?? Sources/ScannerResults/2022-12-12-20-0-48/GraphFormatFiles/SQLProcedureNode.csv
+?? Sources/ScannerResults/2022-12-12-20-0-48/GraphFormatFiles/SQLTableNode.csv
+?? Sources/ScannerResults/2022-12-12-20-0-48/GraphFormatFiles/SQLViewNode.csv
+?? Sources/ScannerResults/2022-12-12-20-0-48/Object_references_report.csv
+?? Sources/ScannerResults/2022-12-12-20-0-48/Objects_report.csv
+?? Sources/ScannerResults/2022-12-12-20-0-48/Procedure_references_count_report.csv
+?? bds-auto-save-craguilar_mobilize.net-2022-12-12-20-13-25.txt
