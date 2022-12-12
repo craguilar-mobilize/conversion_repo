@@ -1,0 +1,2 @@
+RunId,ProjectId,Timestamp,RepositoryUrl,SourceDescription,Database,Schema,Name,FullyQualifiedName,ReferenceCount
+29617bcb-8065-45a1-9e09-02b1af15a884,18777,2022-12-12-19-49-29,https://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:x-oauth-basic@github.com/craguilar-mobilize/conversion_repo.git,Sources/CLI_T12/Source_Code.sql,DBADM,NULL,InsertDemoUsers,DBADM.InsertDemoUsers,0.0

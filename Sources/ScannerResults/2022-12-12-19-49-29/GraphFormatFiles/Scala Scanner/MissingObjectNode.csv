@@ -1,0 +1,6 @@
+id:ID,:LABEL,BuiltIn,Database,Name,Schema
+DB.SCH.insertTable,MissingObject,False,DB,insertTable,SCH
+DB.SCH.TableRef,MissingObject,False,DB,TableRef,SCH
+PL_DEV.BDI.Tables,MissingObject,False,PL_DEV,Tables,BDI
+PL_DEV.PM_EDW.AUTO_MSTR,MissingObject,False,PL_DEV,AUTO_MSTR,PM_EDW
+TEST.SCH.TTABLE,MissingObject,False,TEST,TTABLE,SCH

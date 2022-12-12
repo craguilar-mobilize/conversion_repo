@@ -1,0 +1,9 @@
+id:ID,:LABEL,Name,Parent,Type
+DBADM.View_DemoUsers.CityCode,SQLColumn,CityCode,DBADM.View_DemoUsers,Integer
+DBADM.View_DemoUsers.Email,SQLColumn,Email,DBADM.View_DemoUsers,VARCHAR(255)
+DBADM.View_DemoUsers.Name,SQLColumn,Name,DBADM.View_DemoUsers,VARCHAR(255)
+DemoUsers.Birthday,SQLColumn,Birthday,DemoUsers,DATE
+DemoUsers.CityCode,SQLColumn,CityCode,DemoUsers,Integer
+DemoUsers.Email,SQLColumn,Email,DemoUsers,VARCHAR(255)
+DemoUsers.ID,SQLColumn,ID,DemoUsers,Integer
+DemoUsers.Name,SQLColumn,Name,DemoUsers,VARCHAR(255)

@@ -1,0 +1,11 @@
+:START_ID,:END_ID,:TYPE,Line
+Sources/Insights_Scala/sclSnippet.scala,TableTest,References,0
+Sources/Insights_Scala/sclSnippet.scala,TEST.SCH.TTABLE,References,24
+Sources/Insights_Scala/sclSnippet.scala,DB.SCH.UDF,References,0
+Sources/Insights_Scala/sclSnippet.scala,BuiltInFunction,References,0
+Sources/Insights_Scala/sclSnippet.scala,BuiltInFunction,References,0
+Sources/Insights_Scala/sclSnippet.scala,TableTest2,References,0
+Sources/Insights_Scala/sclSnippet.scala,PL_DEV.PM_EDW.AUTO_MSTR,References,13
+Sources/Insights_Scala/sclSnippet.scala,PL_DEV.BDI.Tables,References,15
+Sources/Insights_Scala/sclSnippet.scala,DB.SCH.insertTable,References,17
+Sources/Insights_Scala/sclSnippet.scala,DB.SCH.TableRef,References,18
