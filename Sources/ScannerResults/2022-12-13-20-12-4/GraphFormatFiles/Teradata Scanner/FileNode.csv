@@ -1,0 +1,4 @@
+id:ID,:LABEL,File extension,File language
+Sources/CLI_Ora/Source_Code.sql,File,.sql,Teradata
+Sources/CLI_T12/Source_Code.sql,File,.sql,Teradata
+Sources/CLI_TSQL/Source_Code.sql,File,.sql,Teradata

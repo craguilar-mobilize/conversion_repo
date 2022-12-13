@@ -1,0 +1,4 @@
+RunId,ProjectId,Timestamp,RepositoryUrl,Parent,Name,Type
+4b609c3d-ab12-437e-87b5-8bd58c63746c,24637,2022-12-13-20-12-4,https://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:x-oauth-basic@github.com/craguilar-mobilize/conversion_repo.git,DBADM.View_DemoUsers,CityCode,NULL
+4b609c3d-ab12-437e-87b5-8bd58c63746c,24637,2022-12-13-20-12-4,https://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:x-oauth-basic@github.com/craguilar-mobilize/conversion_repo.git,DBADM.View_DemoUsers,Email,NULL
+4b609c3d-ab12-437e-87b5-8bd58c63746c,24637,2022-12-13-20-12-4,https://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:x-oauth-basic@github.com/craguilar-mobilize/conversion_repo.git,DBADM.View_DemoUsers,Name,NULL

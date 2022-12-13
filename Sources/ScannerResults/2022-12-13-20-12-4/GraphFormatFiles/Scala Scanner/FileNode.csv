@@ -1,0 +1,7 @@
+id:ID,:LABEL,File extension,File language
+Sources/CLI_SCALA/src/main/scala/com/mobilize/spark/Credentials.scala,File,.scala,Scala
+Sources/CLI_SCALA/src/main/scala/com/mobilize/spark/LinearRegression.scala,File,.scala,Scala
+Sources/CLI_SCALA/src/main/scala/com/mobilize/spark/Main.scala,File,.scala,Scala
+Sources/CLI_SCALA/src/main/scala/com/mobilize/spark/SessionDriver.scala,File,.scala,Scala
+Sources/CLI_SCALA/src/test/scala/com/mobilize/spark/test.scala,File,.scala,Scala
+Sources/Insights_Scala/sclSnippet.scala,File,.scala,Scala

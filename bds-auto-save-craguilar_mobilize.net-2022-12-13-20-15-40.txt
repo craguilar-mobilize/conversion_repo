@@ -1,0 +1,21 @@
+?? Sources/ScannerResults/2022-12-13-20-12-4/GraphFormatFiles/Scala Scanner/FileNode.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/GraphFormatFiles/Scala Scanner/MissingObjectNode.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/GraphFormatFiles/Scala Scanner/ReferencesRelationship.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/GraphFormatFiles/Scala Scanner/SQLFunctionNode.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/GraphFormatFiles/Scala Scanner/SQLTableNode.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/GraphFormatFiles/Teradata Scanner/ContainsRelationship.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/GraphFormatFiles/Teradata Scanner/FileNode.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/GraphFormatFiles/Teradata Scanner/HasColumnRelationship.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/GraphFormatFiles/Teradata Scanner/ReferencesRelationship.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/GraphFormatFiles/Teradata Scanner/SQLColumnNode.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/GraphFormatFiles/Teradata Scanner/SQLProcedureNode.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/GraphFormatFiles/Teradata Scanner/SQLTableNode.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/GraphFormatFiles/Teradata Scanner/SQLViewNode.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/Scala Scanner/Dashboard/Dashboard.20221213.201226.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/Scala Scanner/Script_references_report.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/Teradata Scanner/Column_report.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/Teradata Scanner/Dashboard/Dashboard.20221213.201226.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/Teradata Scanner/Object_references_report.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/Teradata Scanner/Objects_report.csv
+?? Sources/ScannerResults/2022-12-13-20-12-4/Teradata Scanner/Procedure_references_count_report.csv
+?? bds-auto-save-craguilar_mobilize.net-2022-12-13-20-15-40.txt

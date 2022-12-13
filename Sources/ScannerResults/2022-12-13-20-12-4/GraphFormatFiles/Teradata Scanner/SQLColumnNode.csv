@@ -1,0 +1,4 @@
+id:ID,:LABEL,Name,Parent,Type
+DBADM.View_DemoUsers.CityCode,SQLColumn,CityCode,DBADM.View_DemoUsers,
+DBADM.View_DemoUsers.Email,SQLColumn,Email,DBADM.View_DemoUsers,
+DBADM.View_DemoUsers.Name,SQLColumn,Name,DBADM.View_DemoUsers,

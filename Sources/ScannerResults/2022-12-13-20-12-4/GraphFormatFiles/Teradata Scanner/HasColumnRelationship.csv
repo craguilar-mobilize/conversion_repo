@@ -1,0 +1,7 @@
+:START_ID,:END_ID,:TYPE
+DBADM.View_DemoUsers,DBADM.View_DemoUsers.CityCode,HasColumn
+DBADM.View_DemoUsers,DBADM.View_DemoUsers.CityCode,HasColumn
+DBADM.View_DemoUsers,DBADM.View_DemoUsers.Email,HasColumn
+DBADM.View_DemoUsers,DBADM.View_DemoUsers.Email,HasColumn
+DBADM.View_DemoUsers,DBADM.View_DemoUsers.Name,HasColumn
+DBADM.View_DemoUsers,DBADM.View_DemoUsers.Name,HasColumn

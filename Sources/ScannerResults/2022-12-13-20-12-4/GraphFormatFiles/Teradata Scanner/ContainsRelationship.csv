@@ -1,0 +1,7 @@
+:START_ID,:END_ID,:TYPE
+Sources/CLI_T12/Source_Code.sql,DemoUsers,Contains
+Sources/CLI_T12/Source_Code.sql,DBADM.InsertDemoUsers,Contains
+Sources/CLI_Ora/Source_Code.sql,DemoUsers,Contains
+Sources/CLI_TSQL/Source_Code.sql,DemoUsers,Contains
+Sources/CLI_Ora/Source_Code.sql,DBADM.View_DemoUsers,Contains
+Sources/CLI_T12/Source_Code.sql,DBADM.View_DemoUsers,Contains
