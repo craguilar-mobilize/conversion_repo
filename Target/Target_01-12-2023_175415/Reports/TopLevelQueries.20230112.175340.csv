@@ -1,0 +1,13 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,FileName,LineNumber,LinesOfCode,HighestEWISeverity,ConversionStatus,EWIs,UDFsUsed,CharConversionPercentage,LoCConversionPercentage,EWIsNumber,ObjectDB,DeploymentOrder,CharacterCount
+9e613177-ad43-49e5-81cc-addab84aabb1,SQL,2,INSERT,CLI_Ora/Source_Code.sql,13,1,,Fully Converted,,,--,100%,0,,,
+9e613177-ad43-49e5-81cc-addab84aabb1,SQL,3,INSERT,CLI_Ora/Source_Code.sql,15,1,,Fully Converted,,,--,100%,0,,,
+9e613177-ad43-49e5-81cc-addab84aabb1,SQL,4,INSERT,CLI_Ora/Source_Code.sql,17,1,,Fully Converted,,,--,100%,0,,,
+9e613177-ad43-49e5-81cc-addab84aabb1,SQL,5,INSERT,CLI_Ora/Source_Code.sql,19,1,,Fully Converted,,,--,100%,0,,,
+9e613177-ad43-49e5-81cc-addab84aabb1,SQL,2,INSERT,CLI_T12/Source_Code.sql,13,1,,Fully Converted,,,--,100%,0,,,
+9e613177-ad43-49e5-81cc-addab84aabb1,SQL,3,INSERT,CLI_T12/Source_Code.sql,15,1,,Fully Converted,,,--,100%,0,,,
+9e613177-ad43-49e5-81cc-addab84aabb1,SQL,4,INSERT,CLI_T12/Source_Code.sql,17,1,,Fully Converted,,,--,100%,0,,,
+9e613177-ad43-49e5-81cc-addab84aabb1,SQL,5,INSERT,CLI_T12/Source_Code.sql,19,1,,Fully Converted,,,--,100%,0,,,
+9e613177-ad43-49e5-81cc-addab84aabb1,SQL,2,INSERT,CLI_TSQL/Source_Code.sql,13,1,,Fully Converted,,,--,100%,0,,,
+9e613177-ad43-49e5-81cc-addab84aabb1,SQL,3,INSERT,CLI_TSQL/Source_Code.sql,15,1,,Fully Converted,,,--,100%,0,,,
+9e613177-ad43-49e5-81cc-addab84aabb1,SQL,4,INSERT,CLI_TSQL/Source_Code.sql,17,1,,Fully Converted,,,--,100%,0,,,
+9e613177-ad43-49e5-81cc-addab84aabb1,SQL,5,INSERT,CLI_TSQL/Source_Code.sql,19,1,,Fully Converted,,,--,100%,0,,,

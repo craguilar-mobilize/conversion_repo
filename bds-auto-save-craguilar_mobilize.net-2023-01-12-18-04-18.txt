@@ -1,0 +1,16 @@
+?? Target/Target_01-12-2023_175415/Logs/ConversionLog.20230112.175340.log
+?? Target/Target_01-12-2023_175415/Logs/GenericInfrastructureController/Controller-Log-20230112.175335.log
+?? Target/Target_01-12-2023_175415/Logs/SnowConvert-Log-20230112.175340.log
+?? Target/Target_01-12-2023_175415/Output/CLI_Ora/Source_Code.sql
+?? Target/Target_01-12-2023_175415/Output/CLI_T12/Source_Code.sql
+?? Target/Target_01-12-2023_175415/Output/CLI_TSQL/Source_Code.sql
+?? Target/Target_01-12-2023_175415/Reports/Assessment.20230112.175340.csv
+?? Target/Target_01-12-2023_175415/Reports/Assessment.20230112.175340.docx
+?? Target/Target_01-12-2023_175415/Reports/Assessment.20230112.175340.html
+?? Target/Target_01-12-2023_175415/Reports/Elements.20230112.175340.csv
+?? Target/Target_01-12-2023_175415/Reports/Issues.20230112.175340.csv
+?? Target/Target_01-12-2023_175415/Reports/Lineage.20230112.175340.csv
+?? Target/Target_01-12-2023_175415/Reports/Summary.20230112.175340.csv
+?? Target/Target_01-12-2023_175415/Reports/TopLevelObjects.20230112.175340.csv
+?? Target/Target_01-12-2023_175415/Reports/TopLevelQueries.20230112.175340.csv
+?? bds-auto-save-craguilar_mobilize.net-2023-01-12-18-04-18.txt
