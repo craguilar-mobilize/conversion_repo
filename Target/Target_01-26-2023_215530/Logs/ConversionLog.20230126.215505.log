@@ -1,0 +1,131 @@
+[01/26/2023 21:55:05] Info: SourceLanguage set to Oracle based on the appsettings configuration.
+[01/26/2023 21:55:06] Info: No path specified for loading additional transformation rules
+[01/26/2023 21:55:06] Info: Starting to analyze the input path '/tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Sources'...
+[01/26/2023 21:55:13] Info: EFProcess 638103669130031440 started
+[01/26/2023 21:55:13] Debug: TaskParam TaskProvider = Mobilize.Snow.ConversionTool.Tasks.SnowConvertTaskProvider
+[01/26/2023 21:55:13] Debug: TaskParam ConversionBeginTask.Input = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Sources/input.wsp
+[01/26/2023 21:55:13] Debug: TaskParam workingSet = Value is not created.
+[01/26/2023 21:55:13] Debug: TaskParam ConversionBeginTask.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[01/26/2023 21:55:13] Debug: TaskParam ConversionBeginTask.Enabled = True
+[01/26/2023 21:55:13] Debug: TaskParam Repository = Value is not created.
+[01/26/2023 21:55:13] Debug: TaskParam RepositoryDirectory = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Target/.mobilize/CommonEF
+[01/26/2023 21:55:13] Info: Found 1 Sql files with a total size of 1.93KB
+[01/26/2023 21:55:13] Info: Starting the parsing process of 1 file with 1.93KB of code, this might take a while...
+[01/26/2023 21:55:13] Info: Step 1/7 - Loading Code: STARTED
+[01/26/2023 21:55:14] Info: Step 1/7 - Loading Code: COMPLETED
+[01/26/2023 21:55:14] Debug: TaskParam TaskProvider = Mobilize.Snow.ConversionTool.Tasks.SnowConvertTaskProvider
+[01/26/2023 21:55:14] Debug: TaskParam SymbolTableFillingTask.Input = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Sources/input.wsp
+[01/26/2023 21:55:14] Debug: TaskParam workingSet = Artinsoft.Common.Store.RepositoryWorkingSet`2[System.String,Artinsoft.Common.Store.IItemContainer]
+[01/26/2023 21:55:14] Debug: TaskParam SymbolTableFillingTask.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[01/26/2023 21:55:14] Debug: TaskParam SymbolTableFillingTask.Enabled = True
+[01/26/2023 21:55:14] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[01/26/2023 21:55:14] Debug: TaskParam RepositoryDirectory = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Target/.mobilize/CommonEF
+[01/26/2023 21:55:15] Info: Step 2/7 - Semantic Analysis of Tables: STARTED
+[01/26/2023 21:55:15] Info: Step 2/7 - Semantic Analysis of Tables: COMPLETED
+[01/26/2023 21:55:15] Debug: TaskParam TaskProvider = Mobilize.Snow.ConversionTool.Tasks.SnowConvertTaskProvider
+[01/26/2023 21:55:15] Debug: TaskParam SymbolTableFillingSecondTask.Input = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Sources/input.wsp
+[01/26/2023 21:55:15] Debug: TaskParam workingSet = Artinsoft.Common.Store.RepositoryWorkingSet`2[System.String,Artinsoft.Common.Store.IItemContainer]
+[01/26/2023 21:55:15] Debug: TaskParam SymbolTableFillingSecondTask.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[01/26/2023 21:55:15] Debug: TaskParam SymbolTableFillingSecondTask.Enabled = True
+[01/26/2023 21:55:15] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[01/26/2023 21:55:15] Debug: TaskParam RepositoryDirectory = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Target/.mobilize/CommonEF
+[01/26/2023 21:55:15] Info: Step 3/7 - Semantic Analysis of Top Level Objects: STARTED
+[01/26/2023 21:55:15] Info: Step 3/7 - Semantic Analysis of Top Level Objects: COMPLETED
+[01/26/2023 21:55:15] Debug: TaskParam TaskProvider = Mobilize.Snow.ConversionTool.Tasks.SnowConvertTaskProvider
+[01/26/2023 21:55:15] Debug: TaskParam DependenciesExtractorTask.Input = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Sources/input.wsp
+[01/26/2023 21:55:15] Debug: TaskParam workingSet = Artinsoft.Common.Store.RepositoryWorkingSet`2[System.String,Artinsoft.Common.Store.IItemContainer]
+[01/26/2023 21:55:15] Debug: TaskParam DependenciesExtractorTask.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[01/26/2023 21:55:15] Debug: TaskParam DependenciesExtractorTask.Enabled = True
+[01/26/2023 21:55:15] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[01/26/2023 21:55:15] Debug: TaskParam RepositoryDirectory = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Target/.mobilize/CommonEF
+[01/26/2023 21:55:15] Info: Step 4/7 - Analysis of object dependencies: STARTED
+[01/26/2023 21:55:15] Info: Step 4/7 - Analysis of object dependencies: COMPLETED
+[01/26/2023 21:55:15] Debug: TaskParam TaskProvider = Mobilize.Snow.ConversionTool.Tasks.SnowConvertTaskProvider
+[01/26/2023 21:55:15] Debug: TaskParam PreProcessTask.Input = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Sources/input.wsp
+[01/26/2023 21:55:15] Debug: TaskParam workingSet = Artinsoft.Common.Store.RepositoryWorkingSet`2[System.String,Artinsoft.Common.Store.IItemContainer]
+[01/26/2023 21:55:15] Debug: TaskParam PreProcessTask.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[01/26/2023 21:55:15] Debug: TaskParam PreProcessTask.Enabled = True
+[01/26/2023 21:55:15] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[01/26/2023 21:55:15] Debug: TaskParam RepositoryDirectory = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Target/.mobilize/CommonEF
+[01/26/2023 21:55:15] Info: Step 5/7 - Pre-Processing: STARTED
+[01/26/2023 21:55:15] Info: Step 5/7 - Pre-Processing: COMPLETED
+[01/26/2023 21:55:15] Debug: TaskParam TaskProvider = Mobilize.Snow.ConversionTool.Tasks.SnowConvertTaskProvider
+[01/26/2023 21:55:15] Debug: TaskParam PreConversionAssessmentTask.Input = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Sources/input.wsp
+[01/26/2023 21:55:15] Debug: TaskParam workingSet = Artinsoft.Common.Store.RepositoryWorkingSet`2[System.String,Artinsoft.Common.Store.IItemContainer]
+[01/26/2023 21:55:15] Debug: TaskParam PreConversionAssessmentTask.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[01/26/2023 21:55:15] Debug: TaskParam PreConversionAssessmentTask.Enabled = True
+[01/26/2023 21:55:15] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[01/26/2023 21:55:15] Debug: TaskParam RepositoryDirectory = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Target/.mobilize/CommonEF
+[01/26/2023 21:55:15] Info: Step 5.1/7 - Pre-Conversion Assessment: STARTED
+[01/26/2023 21:55:15] Info: Step 5.1/7 - Pre-Conversion Assessment: COMPLETED
+[01/26/2023 21:55:15] Debug: TaskParam sourceLanguage = Oracle
+[01/26/2023 21:55:15] Debug: TaskParam LineageInventory = Mobilize.Snow.Assessment.LineageInventory
+[01/26/2023 21:55:15] Debug: TaskParam reportPath = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Target/Reports
+[01/26/2023 21:55:15] Debug: TaskParam SessionTimestamp = 20230126.215505
+[01/26/2023 21:55:15] Debug: TaskParam codeModelWriter = Mobilize.Common.AssessmentModel.Writer.CodeModelWriter
+[01/26/2023 21:55:15] Debug: TaskParam symbolTableProvider = Mobilize.Snow.Common.SymbolTableProvider
+[01/26/2023 21:55:15] Debug: TaskParam ExecuteOracleLineage = False
+[01/26/2023 21:55:15] Debug: TaskParam LineageTask.Input = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Sources/input.wsp
+[01/26/2023 21:55:15] Debug: TaskParam workingSet = Artinsoft.Common.Store.RepositoryWorkingSet`2[System.String,Artinsoft.Common.Store.IItemContainer]
+[01/26/2023 21:55:15] Debug: TaskParam LineageTask.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[01/26/2023 21:55:15] Debug: TaskParam LineageTask.Enabled = True
+[01/26/2023 21:55:15] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[01/26/2023 21:55:15] Debug: TaskParam RepositoryDirectory = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Target/.mobilize/CommonEF
+[01/26/2023 21:55:15] Debug: TaskParam TaskProvider = Mobilize.Snow.ConversionTool.Tasks.SnowConvertTaskProvider
+[01/26/2023 21:55:15] Debug: TaskParam TransformationsTask.Input = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Sources/input.wsp
+[01/26/2023 21:55:15] Debug: TaskParam workingSet = Artinsoft.Common.Store.RepositoryWorkingSet`2[System.String,Artinsoft.Common.Store.IItemContainer]
+[01/26/2023 21:55:15] Debug: TaskParam TransformationsTask.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[01/26/2023 21:55:15] Debug: TaskParam TransformationsTask.Enabled = True
+[01/26/2023 21:55:15] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[01/26/2023 21:55:15] Debug: TaskParam RepositoryDirectory = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Target/.mobilize/CommonEF
+[01/26/2023 21:55:15] Info: Step 6/7 - Conversion Execution: STARTED
+[01/26/2023 21:55:15] Info: Start transforming file Source_Code.sql
+[01/26/2023 21:55:16] Info: Transformed file Source_Code.sql
+[01/26/2023 21:55:16] Info: Step 6/7 - Conversion Execution: COMPLETED
+[01/26/2023 21:55:16] Debug: TaskParam coverage = 0
+[01/26/2023 21:55:16] Debug: TaskParam SnowScript = False
+[01/26/2023 21:55:16] Debug: TaskParam reportPath = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Target/Reports
+[01/26/2023 21:55:16] Debug: TaskParam totalProcessedLOC = 0
+[01/26/2023 21:55:16] Debug: TaskParam inputPath = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Sources
+[01/26/2023 21:55:16] Debug: TaskParam SessionTimestamp = 20230126.215505
+[01/26/2023 21:55:16] Debug: TaskParam snowConfiguration = Mobilize.BDS.Converter.SnowConvert.Configuration.SnowCodeProcessorConfiguration
+[01/26/2023 21:55:16] Debug: TaskParam DashboardMode = False
+[01/26/2023 21:55:16] Debug: TaskParam writeResultsProgressDescriptor = Mobilize.Common.Utils.Progress.SingleProgressDescriptor
+[01/26/2023 21:55:16] Debug: TaskParam snowExecutionResult = Mobilize.Snow.Assessment.SnowExecutionResult
+[01/26/2023 21:55:16] Debug: TaskParam ConversionEndTask.Input = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Sources/input.wsp
+[01/26/2023 21:55:16] Debug: TaskParam workingSet = Artinsoft.Common.Store.RepositoryWorkingSet`2[System.String,Artinsoft.Common.Store.IItemContainer]
+[01/26/2023 21:55:16] Debug: TaskParam ConversionEndTask.ItemMedatada = Artinsoft.Common.Store.ItemMetadata
+[01/26/2023 21:55:16] Debug: TaskParam ConversionEndTask.Enabled = True
+[01/26/2023 21:55:16] Debug: TaskParam Repository = Artinsoft.Common.Store.Repository
+[01/26/2023 21:55:16] Debug: TaskParam RepositoryDirectory = /tmp/Repo-b9dd54c6-3466-41a7-9d17-77124db236eb/Target/.mobilize/CommonEF
+[01/26/2023 21:55:16] Info: EFProcess 638103669130031440 ended. Excecution time: 00:00:03.0044296
+[01/26/2023 21:55:16] Info: STARTED Step 7/7: Stats and Reports
+[01/26/2023 21:55:16] Info: Writing the conversion summary report
+[01/26/2023 21:55:16] Info: Writing the Assessment report
+[01/26/2023 21:55:16] Info: Writing the html assessment report
+[01/26/2023 21:55:16] Info: Writing the Issues report
+[01/26/2023 21:55:16] Info: Writing the top level objects report
+[01/26/2023 21:55:16] Info: Writing the top level queries report
+[01/26/2023 21:55:16] Info: Uploading metadata
+[01/26/2023 21:55:17] Info: COMPLETED Step 7/7: Stats and Reports
+[01/26/2023 21:55:17] Info: 
+	==============================================================================
+	SnowConvert assessment execution summary
+	 - Files: 1
+	 - Files Not Generated: 0
+	 - Total lines of code: 58
+	 - Automatically converted: 99.27%
+	 - Conversion time: 00:00:03
+	 - Conversion speed: 18 lines of code per second
+	See the report files for more details about the conversion status.
+	==============================================================================
+
+[01/26/2023 21:55:17] Info: 
+	==============================================================================
+	LICENSE
+	SnowConvert Tool.
+	Production use or redistribution of tool or its output is strictly prohibited.
+	Copyright (c) Mobilize.Net Corporation, 2021.
+	For more License Terms and Conditions run SnowConvert with --terms.
+	==============================================================================
+

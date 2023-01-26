@@ -1,0 +1,12 @@
+?? Target/Target_01-26-2023_215530/Logs/ConversionLog.20230126.215505.log
+?? Target/Target_01-26-2023_215530/Logs/GenericInfrastructureController/Controller-Log-20230126.215503.log
+?? Target/Target_01-26-2023_215530/Logs/SnowConvert-Oracle-Log-20230126.215505.log
+?? Target/Target_01-26-2023_215530/Output/CLI_Ora/Source_Code.sql
+?? Target/Target_01-26-2023_215530/Output/UDF Helpers/JSDATE_UDF.sql
+?? Target/Target_01-26-2023_215530/Reports/Assessment.20230126.215505.csv
+?? Target/Target_01-26-2023_215530/Reports/Assessment.20230126.215505.html
+?? Target/Target_01-26-2023_215530/Reports/AssessmentReport.20230126.215505.docx
+?? Target/Target_01-26-2023_215530/Reports/Issues.20230126.215505.csv
+?? Target/Target_01-26-2023_215530/Reports/TopLevelObjects.20230126.215505.csv
+?? Target/Target_01-26-2023_215530/Reports/TopLevelQueries.20230126.215505.csv
+?? bds-auto-save-craguilar_mobilize.net-2023-01-26-22-23-30.txt
