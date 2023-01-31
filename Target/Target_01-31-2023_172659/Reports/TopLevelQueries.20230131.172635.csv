@@ -1,0 +1,5 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,ObjectDB,FileName,LineNumber,LinesOfCode,EWIsNumber,HighestEWISeverity,UDFsUsed,EWIs,CharacterCount,ConversionStatus,CharacterConversionPercentage,LoCConversionPercentage
+54d3881e-b726-44a9-9e30-4e4351ec3d8c,SQL,5,INSERT,<NoServer>.<NoDB>.<NoSchema>,unknown/cli_tsql/source_code.sql,19,1,0,,,,135,Success,100%,100%
+54d3881e-b726-44a9-9e30-4e4351ec3d8c,SQL,4,INSERT,<NoServer>.<NoDB>.<NoSchema>,unknown/cli_tsql/source_code.sql,17,1,0,,,,141,Success,100%,100%
+54d3881e-b726-44a9-9e30-4e4351ec3d8c,SQL,3,INSERT,<NoServer>.<NoDB>.<NoSchema>,unknown/cli_tsql/source_code.sql,15,1,0,,,,137,Success,100%,100%
+54d3881e-b726-44a9-9e30-4e4351ec3d8c,SQL,2,INSERT,<NoServer>.<NoDB>.<NoSchema>,unknown/cli_tsql/source_code.sql,13,1,0,,,,136,Success,100%,100%

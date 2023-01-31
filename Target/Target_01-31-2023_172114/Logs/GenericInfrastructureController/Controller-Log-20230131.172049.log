@@ -1,0 +1,30 @@
+[01/31/2023 17:20:49] Debug: Session id: 7083bf20-2aef-410d-b359-de63a0409fea
+[01/31/2023 17:20:49] Debug: Code Processor information: Name :SnowConvert-Oracle, Version: 13.0.110.0
+[01/31/2023 17:20:50] Debug: Getting license
+[01/31/2023 17:20:50] Debug: License information
+	Status: Failed
+	Message: No active license available.
+[01/31/2023 17:20:50] Info: Starting to validate parameters
+[01/31/2023 17:20:50] Info: Parameters to validate: 
+	Execution mode: Conversion
+	PLTargetLanguage: SnowScript
+	Customschema: PUBLIC
+	LICENSE_KEY: 0db6b1ed-0e42-4b52-8bc9-9a466ddb8999
+[01/31/2023 17:20:50] Info: Validation of parameters: Success
+[01/31/2023 17:20:50] Debug: Getting code descriptor
+[01/31/2023 17:20:50] Debug: Code descriptor information
+	Units: 58
+	Units type: LOC
+	All file bytes: 1979
+	All found extensions: .sql
+[01/31/2023 17:20:50] Debug: Calculating fingerprint
+[01/31/2023 17:20:50] Debug: Fingerprint information Fingerprint(size=1979,projects=1)
+[01/31/2023 17:20:50] Info: Starting to try to validate online license for execution
+[01/31/2023 17:20:51] Debug: Getting license
+[01/31/2023 17:20:51] Debug: License information
+	Status: Failed
+	Message: No active license available.
+[01/31/2023 17:20:51] Debug: Starting the execution of the controller
+[01/31/2023 17:20:52] Debug: Executing the worker: SnowConvert-Oracle
+[01/31/2023 17:21:05] Debug: Finished executing the worker: SnowConvert-Oracle
+[01/31/2023 17:21:07] Info: Controller execution ended

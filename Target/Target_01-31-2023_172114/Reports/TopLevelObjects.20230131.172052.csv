@@ -1,0 +1,5 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,ObjectDB,FileName,LineNumber,LinesOfCode,EWIsNumber,HighestEWISeverity,UDFsUsed,EWIs,CharacterCount,ConversionStatus,CharacterConversionPercentage,LoCConversionPercentage,DeploymentOrder
+7083bf20-2aef-410d-b359-de63a0409fea,SQL,UpdateDemoUsers,PROCEDURE,<NoDB>.<NoSchema>.<NoPackage>,CLI_Ora/Source_Code.sql,45,16,1,Medium,,MSCEWI3111,295,Partial,97.97%,94.12%,
+7083bf20-2aef-410d-b359-de63a0409fea,SQL,InsertDemoUsers,PROCEDURE,<NoDB>.<NoSchema>.<NoPackage>,CLI_Ora/Source_Code.sql,28,11,1,Medium,,MSCEWI3111,276,Partial,97.83%,91.67%,
+7083bf20-2aef-410d-b359-de63a0409fea,SQL,View_DemoUsers,VIEW,<NoDB>.<NoSchema>.<NoPackage>,CLI_Ora/Source_Code.sql,22,4,0,,,,131,Success,100%,100%,1
+7083bf20-2aef-410d-b359-de63a0409fea,SQL,DemoUsers,TABLE,<NoDB>.<NoSchema>.<NoPackage>,CLI_Ora/Source_Code.sql,2,9,1,Low,,MSCEWI1048,179,Success,100%,100%,0

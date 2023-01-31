@@ -1,0 +1,31 @@
+[01/31/2023 17:26:33] Debug: Session id: 54d3881e-b726-44a9-9e30-4e4351ec3d8c
+[01/31/2023 17:26:33] Debug: Code Processor information: Name :SnowConvert-SQLServer, Version: 13.0.110.0
+[01/31/2023 17:26:33] Debug: Getting license
+[01/31/2023 17:26:33] Debug: License information
+	Status: Failed
+	Message: No active license available.
+[01/31/2023 17:26:33] Info: Starting to validate parameters
+[01/31/2023 17:26:33] Info: Parameters to validate: 
+	Execution mode: Conversion
+	PLTargetLanguage: SnowScript
+	Customschema: PUBLIC
+	Arrange: true
+	LICENSE_KEY: d8c45a8b-7607-4aeb-ba39-2e4b7440d745
+[01/31/2023 17:26:34] Info: Validation of parameters: Success
+[01/31/2023 17:26:34] Debug: Getting code descriptor
+[01/31/2023 17:26:34] Debug: Code descriptor information
+	Units: 51
+	Units type: LOC
+	All file bytes: 2073
+	All found extensions: .sql
+[01/31/2023 17:26:34] Debug: Calculating fingerprint
+[01/31/2023 17:26:34] Debug: Fingerprint information Fingerprint(size=2073,projects=1)
+[01/31/2023 17:26:34] Info: Starting to try to validate online license for execution
+[01/31/2023 17:26:35] Debug: Getting license
+[01/31/2023 17:26:35] Debug: License information
+	Status: Failed
+	Message: No active license available.
+[01/31/2023 17:26:35] Debug: Starting the execution of the controller
+[01/31/2023 17:26:35] Debug: Executing the worker: SnowConvert-SQLServer
+[01/31/2023 17:26:50] Debug: Finished executing the worker: SnowConvert-SQLServer
+[01/31/2023 17:26:52] Info: Controller execution ended

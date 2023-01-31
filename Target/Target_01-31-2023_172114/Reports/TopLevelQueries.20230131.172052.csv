@@ -1,0 +1,7 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,ObjectDB,FileName,LineNumber,LinesOfCode,EWIsNumber,HighestEWISeverity,UDFsUsed,EWIs,CharacterCount,ConversionStatus,CharacterConversionPercentage,LoCConversionPercentage
+7083bf20-2aef-410d-b359-de63a0409fea,SQL,10,CALL,<NoDB>.<NoSchema>.<NoPackage>,CLI_Ora/Source_Code.sql,64,1,0,,,,105,Success,100%,100%
+7083bf20-2aef-410d-b359-de63a0409fea,SQL,8,CALL,<NoDB>.<NoSchema>.<NoPackage>,CLI_Ora/Source_Code.sql,42,1,0,,,,101,Success,100%,100%
+7083bf20-2aef-410d-b359-de63a0409fea,SQL,5,INSERT,<NoDB>.<NoSchema>.<NoPackage>,CLI_Ora/Source_Code.sql,19,1,0,,,,135,Success,100%,100%
+7083bf20-2aef-410d-b359-de63a0409fea,SQL,4,INSERT,<NoDB>.<NoSchema>.<NoPackage>,CLI_Ora/Source_Code.sql,17,1,0,,,,141,Success,100%,100%
+7083bf20-2aef-410d-b359-de63a0409fea,SQL,3,INSERT,<NoDB>.<NoSchema>.<NoPackage>,CLI_Ora/Source_Code.sql,15,1,0,,,,137,Success,100%,100%
+7083bf20-2aef-410d-b359-de63a0409fea,SQL,2,INSERT,<NoDB>.<NoSchema>.<NoPackage>,CLI_Ora/Source_Code.sql,13,1,0,,,,136,Success,100%,100%

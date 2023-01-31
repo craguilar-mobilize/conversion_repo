@@ -1,0 +1,5 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,ObjectDB,FileName,LineNumber,LinesOfCode,EWIsNumber,HighestEWISeverity,UDFsUsed,EWIs,CharacterCount,ConversionStatus,CharacterConversionPercentage,LoCConversionPercentage,DeploymentOrder
+54d3881e-b726-44a9-9e30-4e4351ec3d8c,SQL,UpdateDemoUsers,PROCEDURE,<NoServer>.<NoDB>.<NoSchema>,unknown/cli_tsql/source_code.sql,43,12,0,,,,296,Success,100%,100%,
+54d3881e-b726-44a9-9e30-4e4351ec3d8c,SQL,InsertDemoUsers,PROCEDURE,<NoServer>.<NoDB>.<NoSchema>,unknown/cli_tsql/source_code.sql,28,10,0,,,,276,Success,100%,100%,
+54d3881e-b726-44a9-9e30-4e4351ec3d8c,SQL,View_DemoUsers,VIEW,<NoServer>.<NoDB>.<NoSchema>,unknown/cli_tsql/source_code.sql,22,4,0,,,,108,Success,100%,100%,1
+54d3881e-b726-44a9-9e30-4e4351ec3d8c,SQL,DemoUsers,TABLE,<NoServer>.<NoDB>.<NoSchema>,unknown/cli_tsql/source_code.sql,2,9,1,Low,,MSCEWI1048,215,Success,100%,100%,0
