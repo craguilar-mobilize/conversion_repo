@@ -1,0 +1,92 @@
+SessionID,Category,Grammar_Element,HighLevelObject,FileType,Total_Object_Count,Count_Converted_LOC,Count_Not_Converted_LOC,Count_Conversion_Errors,Count_Parsing_Errors
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Comparison Operators and Functions,=,CREATE / REPLACE PROCEDURE,SQL,5,5,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Data Definition Statements,CHECKSUM,CREATE TABLE,SQL,1,1,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Procedure statements,CREATE / REPLACE PROCEDURE,CREATE / REPLACE PROCEDURE,SQL,2,22,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Data Definition Statements,CREATE / REPLACE VIEW,CREATE / REPLACE VIEW,SQL,1,4,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Table Statements,CREATE TABLE,CREATE TABLE,SQL,1,9,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Data Type,DATE,CREATE / REPLACE PROCEDURE,SQL,2,0,2,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Data Type,DATE,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,"SELECT statement syntax, options, clauses, modifiers",FROM,CREATE / REPLACE VIEW,SQL,1,1,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Data Manipulation Language Statement,INSERT,INSERT,SQL,4,4,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,INTEGER,CREATE TABLE,SQL,2,2,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,INTEGER,CREATE / REPLACE PROCEDURE,SQL,3,3,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Data Definition Statements,MERGEBLOCKRATIO,CREATE TABLE,SQL,1,1,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Data Definition Statements,NO AFTER JOURNAL,CREATE TABLE,SQL,1,1,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Data Definition Statements,NO BEFORE JOURNAL,CREATE TABLE,SQL,1,1,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Data Definition Statements,NO FALLBACK,CREATE TABLE,SQL,1,1,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Data Definition Statements,NOT NULL,CREATE TABLE,SQL,4,4,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Data Definition Statements,PRIMARY INDEX,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,"SELECT statement syntax, options, clauses, modifiers",SELECT,CREATE / REPLACE VIEW,SQL,1,2,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlAlwaysOrDefault,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlArgument,Not specified,SQL,9,0,9,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlArgumentList,Not specified,SQL,2,0,2,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlByDefault,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlColumnDefinition,CREATE TABLE,SQL,5,6,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlColumnNameList,CREATE / REPLACE VIEW,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlCommonSequenceGeneratorOptions,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlCompoundStat,CREATE / REPLACE PROCEDURE,SQL,2,0,13,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlDataTypeSize,CREATE TABLE,SQL,2,0,2,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlDataTypeSize,CREATE / REPLACE PROCEDURE,SQL,4,0,4,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlDateTimeType,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlDateTimeType,CREATE / REPLACE PROCEDURE,SQL,2,0,2,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlGeneratedAsIdentity,CREATE TABLE,SQL,1,1,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlGeneratedClause,CREATE TABLE,SQL,1,1,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlHostParameterName,CREATE / REPLACE PROCEDURE,SQL,4,0,4,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlInsertIntoBody,INSERT,SQL,4,0,8,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlInsertIntoBody,CREATE / REPLACE PROCEDURE,SQL,1,0,3,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlInsertionTargetName,CREATE / REPLACE PROCEDURE,SQL,1,0,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlInsertionTargetName,INSERT,SQL,4,0,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlInsertStartKeyword,CREATE / REPLACE PROCEDURE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlInsertStartKeyword,INSERT,SQL,4,0,4,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlLiteralExpr,Not specified,SQL,6,0,6,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlLiteralExpr,INSERT,SQL,12,0,12,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlLiteralPrecision,CREATE / REPLACE PROCEDURE,SQL,4,0,4,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlLiteralPrecision,CREATE TABLE,SQL,2,0,2,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlMaxValueSequence,CREATE TABLE,SQL,1,1,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlParameterList,CREATE / REPLACE PROCEDURE,SQL,2,0,11,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlQueryStat,CREATE / REPLACE PROCEDURE,SQL,2,0,7,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlRoutineInvocation,Not specified,SQL,2,0,2,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSequenceGeneratorIncrement,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSequenceGeneratorIncrementByOption,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSequenceGeneratorMaxValue,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSequenceGeneratorStartValue,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSequenceGeneratorStartWithOption,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSignedNumericLiteral,CREATE TABLE,SQL,3,0,3,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSignedNumericLiteral,Not specified,SQL,3,0,3,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSignedNumericLiteral,INSERT,SQL,4,0,4,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSimpleName,CREATE / REPLACE PROCEDURE,SQL,13,13,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSimpleName,CREATE / REPLACE VIEW,SQL,5,1,4,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSimpleName,CREATE TABLE,SQL,7,1,6,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSimpleName,INSERT,SQL,4,4,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSimpleName,Not specified,SQL,2,0,2,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSingleNameExpr,INSERT,SQL,16,0,16,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSingleNameExpr,CREATE / REPLACE PROCEDURE,SQL,13,0,13,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlSingleNameExpr,CREATE / REPLACE VIEW,SQL,3,0,3,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlTableElementList,CREATE TABLE,SQL,1,0,8,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlTableOrQueryFactor,CREATE / REPLACE VIEW,SQL,1,1,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlUpdateKeywordStart,CREATE / REPLACE PROCEDURE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlUpdateSetClause,CREATE / REPLACE PROCEDURE,SQL,1,0,4,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlUpdateSetExprElement,CREATE / REPLACE PROCEDURE,SQL,4,0,4,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,SqlUpdateTargetName,CREATE / REPLACE PROCEDURE,SQL,1,0,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdChecksumDefaultIntegrityCheckingOption,CREATE TABLE,SQL,1,1,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdColumnNamesSequence,INSERT,SQL,4,0,4,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdColumnNamesSequence,CREATE / REPLACE PROCEDURE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdCreateTableStart,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdExpressionSequence,INSERT,SQL,4,0,4,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdExpressionSequence,CREATE / REPLACE PROCEDURE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdIndexDefinitionOrPartitionOption,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdInsertColumnsValuesSequence,INSERT,SQL,4,0,4,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdInsertColumnsValuesSequence,CREATE / REPLACE PROCEDURE,SQL,1,0,2,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdMultipleColumns,CREATE TABLE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdOptions,CREATE TABLE,SQL,1,1,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdParameterDeclaration,CREATE / REPLACE PROCEDURE,SQL,9,2,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdReplaceProcedureStart,CREATE / REPLACE PROCEDURE,SQL,2,0,2,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdReplaceViewStart,CREATE / REPLACE VIEW,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdStat,CREATE / REPLACE PROCEDURE,SQL,4,0,22,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdTableJournalNoModifierOption,CREATE TABLE,SQL,2,2,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdTableOptionDefaultModifier,CREATE TABLE,SQL,1,1,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdUpdateWhereOrAllOption,CREATE / REPLACE PROCEDURE,SQL,1,0,1,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,TdViewQuery,CREATE / REPLACE VIEW,SQL,1,0,4,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,VARCHAR,CREATE / REPLACE PROCEDURE,SQL,4,4,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,Uncategorized,VARCHAR,CREATE TABLE,SQL,2,2,0,0,0
+5c38896f-ceb9-4591-9f29-ae49d54f74af,"SELECT statement syntax, options, clauses, modifiers",WHERE,CREATE / REPLACE PROCEDURE,SQL,1,1,0,0,0

@@ -1,0 +1,92 @@
+SessionID,Category,Grammar_Element,HighLevelObject,FileType,Total_Object_Count,Count_Converted_LOC,Count_Not_Converted_LOC,Count_Conversion_Errors,Count_Parsing_Errors
+1319d9fb-e03c-4137-995e-83fc6d72014d,Comparison Operators and Functions,=,CREATE / REPLACE PROCEDURE,SQL,5,5,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Data Definition Statements,CHECKSUM,CREATE TABLE,SQL,1,1,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Procedure statements,CREATE / REPLACE PROCEDURE,CREATE / REPLACE PROCEDURE,SQL,2,22,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Data Definition Statements,CREATE / REPLACE VIEW,CREATE / REPLACE VIEW,SQL,1,4,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Table Statements,CREATE TABLE,CREATE TABLE,SQL,1,9,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Data Type,DATE,CREATE / REPLACE PROCEDURE,SQL,2,0,2,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Data Type,DATE,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,"SELECT statement syntax, options, clauses, modifiers",FROM,CREATE / REPLACE VIEW,SQL,1,1,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Data Manipulation Language Statement,INSERT,INSERT,SQL,4,4,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,INTEGER,CREATE TABLE,SQL,2,2,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,INTEGER,CREATE / REPLACE PROCEDURE,SQL,3,3,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Data Definition Statements,MERGEBLOCKRATIO,CREATE TABLE,SQL,1,1,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Data Definition Statements,NO AFTER JOURNAL,CREATE TABLE,SQL,1,1,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Data Definition Statements,NO BEFORE JOURNAL,CREATE TABLE,SQL,1,1,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Data Definition Statements,NO FALLBACK,CREATE TABLE,SQL,1,1,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Data Definition Statements,NOT NULL,CREATE TABLE,SQL,4,4,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Data Definition Statements,PRIMARY INDEX,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,"SELECT statement syntax, options, clauses, modifiers",SELECT,CREATE / REPLACE VIEW,SQL,1,2,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlAlwaysOrDefault,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlArgument,Not specified,SQL,9,0,9,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlArgumentList,Not specified,SQL,2,0,2,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlByDefault,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlColumnDefinition,CREATE TABLE,SQL,5,6,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlColumnNameList,CREATE / REPLACE VIEW,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlCommonSequenceGeneratorOptions,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlCompoundStat,CREATE / REPLACE PROCEDURE,SQL,2,0,13,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlDataTypeSize,CREATE TABLE,SQL,2,0,2,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlDataTypeSize,CREATE / REPLACE PROCEDURE,SQL,4,0,4,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlDateTimeType,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlDateTimeType,CREATE / REPLACE PROCEDURE,SQL,2,0,2,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlGeneratedAsIdentity,CREATE TABLE,SQL,1,1,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlGeneratedClause,CREATE TABLE,SQL,1,1,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlHostParameterName,CREATE / REPLACE PROCEDURE,SQL,4,0,4,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlInsertIntoBody,INSERT,SQL,4,0,8,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlInsertIntoBody,CREATE / REPLACE PROCEDURE,SQL,1,0,3,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlInsertionTargetName,CREATE / REPLACE PROCEDURE,SQL,1,0,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlInsertionTargetName,INSERT,SQL,4,0,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlInsertStartKeyword,CREATE / REPLACE PROCEDURE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlInsertStartKeyword,INSERT,SQL,4,0,4,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlLiteralExpr,Not specified,SQL,6,0,6,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlLiteralExpr,INSERT,SQL,12,0,12,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlLiteralPrecision,CREATE / REPLACE PROCEDURE,SQL,4,0,4,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlLiteralPrecision,CREATE TABLE,SQL,2,0,2,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlMaxValueSequence,CREATE TABLE,SQL,1,1,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlParameterList,CREATE / REPLACE PROCEDURE,SQL,2,0,11,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlQueryStat,CREATE / REPLACE PROCEDURE,SQL,2,0,7,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlRoutineInvocation,Not specified,SQL,2,0,2,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSequenceGeneratorIncrement,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSequenceGeneratorIncrementByOption,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSequenceGeneratorMaxValue,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSequenceGeneratorStartValue,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSequenceGeneratorStartWithOption,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSignedNumericLiteral,CREATE TABLE,SQL,3,0,3,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSignedNumericLiteral,Not specified,SQL,3,0,3,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSignedNumericLiteral,INSERT,SQL,4,0,4,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSimpleName,CREATE / REPLACE PROCEDURE,SQL,13,13,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSimpleName,CREATE / REPLACE VIEW,SQL,5,1,4,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSimpleName,CREATE TABLE,SQL,7,1,6,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSimpleName,INSERT,SQL,4,4,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSimpleName,Not specified,SQL,2,0,2,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSingleNameExpr,INSERT,SQL,16,0,16,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSingleNameExpr,CREATE / REPLACE PROCEDURE,SQL,13,0,13,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlSingleNameExpr,CREATE / REPLACE VIEW,SQL,3,0,3,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlTableElementList,CREATE TABLE,SQL,1,0,8,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlTableOrQueryFactor,CREATE / REPLACE VIEW,SQL,1,1,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlUpdateKeywordStart,CREATE / REPLACE PROCEDURE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlUpdateSetClause,CREATE / REPLACE PROCEDURE,SQL,1,0,4,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlUpdateSetExprElement,CREATE / REPLACE PROCEDURE,SQL,4,0,4,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,SqlUpdateTargetName,CREATE / REPLACE PROCEDURE,SQL,1,0,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdChecksumDefaultIntegrityCheckingOption,CREATE TABLE,SQL,1,1,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdColumnNamesSequence,INSERT,SQL,4,0,4,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdColumnNamesSequence,CREATE / REPLACE PROCEDURE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdCreateTableStart,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdExpressionSequence,INSERT,SQL,4,0,4,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdExpressionSequence,CREATE / REPLACE PROCEDURE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdIndexDefinitionOrPartitionOption,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdInsertColumnsValuesSequence,INSERT,SQL,4,0,4,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdInsertColumnsValuesSequence,CREATE / REPLACE PROCEDURE,SQL,1,0,2,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdMultipleColumns,CREATE TABLE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdOptions,CREATE TABLE,SQL,1,1,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdParameterDeclaration,CREATE / REPLACE PROCEDURE,SQL,9,2,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdReplaceProcedureStart,CREATE / REPLACE PROCEDURE,SQL,2,0,2,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdReplaceViewStart,CREATE / REPLACE VIEW,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdStat,CREATE / REPLACE PROCEDURE,SQL,4,0,22,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdTableJournalNoModifierOption,CREATE TABLE,SQL,2,2,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdTableOptionDefaultModifier,CREATE TABLE,SQL,1,1,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdUpdateWhereOrAllOption,CREATE / REPLACE PROCEDURE,SQL,1,0,1,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,TdViewQuery,CREATE / REPLACE VIEW,SQL,1,0,4,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,VARCHAR,CREATE / REPLACE PROCEDURE,SQL,4,4,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,Uncategorized,VARCHAR,CREATE TABLE,SQL,2,2,0,0,0
+1319d9fb-e03c-4137-995e-83fc6d72014d,"SELECT statement syntax, options, clauses, modifiers",WHERE,CREATE / REPLACE PROCEDURE,SQL,1,1,0,0,0
