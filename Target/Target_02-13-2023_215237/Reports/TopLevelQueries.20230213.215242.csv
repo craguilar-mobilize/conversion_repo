@@ -1,0 +1,13 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,ObjectDB,FileName,LineNumber,LinesOfCode,EWIsNumber,HighestEWISeverity,UDFsUsed,EWIs,CharacterCount,ConversionStatus,CharacterConversionPercentage,LoCConversionPercentage
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,5,INSERT,<unspecified>,CLI_T12/Source_Code.sql,19,1,0,,,,137,Success,100%,100%
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,4,INSERT,<unspecified>,CLI_T12/Source_Code.sql,17,1,0,,,,143,Success,100%,100%
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,3,INSERT,<unspecified>,CLI_T12/Source_Code.sql,15,1,0,,,,139,Success,100%,100%
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,2,INSERT,<unspecified>,CLI_T12/Source_Code.sql,13,1,0,,,,138,Success,100%,100%
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,5,INSERT,<unspecified>,CLI_Ora/Source_Code.sql,19,1,0,,,,135,Success,100%,100%
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,4,INSERT,<unspecified>,CLI_Ora/Source_Code.sql,17,1,0,,,,141,Success,100%,100%
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,3,INSERT,<unspecified>,CLI_Ora/Source_Code.sql,15,1,0,,,,137,Success,100%,100%
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,2,INSERT,<unspecified>,CLI_Ora/Source_Code.sql,13,1,0,,,,136,Success,100%,100%
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,5,INSERT,<unspecified>,CLI_TSQL/Source_Code.sql,19,1,0,,,,135,Success,100%,100%
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,4,INSERT,<unspecified>,CLI_TSQL/Source_Code.sql,17,1,0,,,,141,Success,100%,100%
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,3,INSERT,<unspecified>,CLI_TSQL/Source_Code.sql,15,1,0,,,,137,Success,100%,100%
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,2,INSERT,<unspecified>,CLI_TSQL/Source_Code.sql,13,1,0,,,,136,Success,100%,100%

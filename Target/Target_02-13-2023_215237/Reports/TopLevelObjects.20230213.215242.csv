@@ -1,0 +1,8 @@
+PartitionKey,FileType,ObjectName,HighLevelObject,ObjectDB,FileName,LineNumber,LinesOfCode,EWIsNumber,HighestEWISeverity,UDFsUsed,EWIs,CharacterCount,ConversionStatus,CharacterConversionPercentage,LoCConversionPercentage,DeploymentOrder
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,UpdateDemoUsers,PROCEDURE,<unspecified>,CLI_T12/Source_Code.sql,43,12,0,,,,292,Success,100%,100%,
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,InsertDemoUsers,PROCEDURE,<unspecified>,CLI_T12/Source_Code.sql,28,10,0,,,,278,Success,100%,100%,
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,View_DemoUsers,VIEW,<unspecified>,CLI_T12/Source_Code.sql,22,4,0,,,,125,Success,100%,100%,1
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,DemoUsers,TABLE,<unspecified>,CLI_T12/Source_Code.sql,2,9,0,,,,331,Success,100%,100%,0
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,View_DemoUsers,VIEW,<unspecified>,CLI_Ora/Source_Code.sql,22,4,0,,,,131,Success,100%,100%,1
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,DemoUsers,TABLE,<unspecified>,CLI_Ora/Source_Code.sql,2,9,1,Critical,,MSCEWI1001,179,Partial,68.16%,80%,0
+df3576e8-dadc-4efd-b4dc-74ec46d12793,SQL,DemoUsers,TABLE,<unspecified>,CLI_TSQL/Source_Code.sql,2,9,5,Critical,,MSCEWI1001,215,Partial,47.91%,50%,0
